@@ -1,0 +1,55 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@700&display=swap');
+body{
+    background-color: pink;
+    margin-left: 40%;
+    margin-right: 40%;
+}
+h1 {
+    text-align: center;
+    color: white;
+
+    font-size: 2.75em;
+    font-family: "Roboto"
+
+}
+h1:hover{
+    color: black;
+}
+.first{
+    margin: auto;
+    text-align: center;
+    color: white;
+    font-size: .75em;
+}
+.pres{
+    text-align: center;
+    color: white;
+    font-family: "Roboto"
+}
+.gospel{
+    
+   margin: 0 auto;
+   font-weight: bold;
+   font-size: .9em;
+   font-family: "Roboto"
+}
+img{
+    display: block;
+    width: 50%;
+    margin: 0 auto;
+}
+.quote{
+    color: white;
+    font-size: 2em;
+    text-align: center;
+    margin-left: 15%;
+    margin-right: 15%;
+}
+footer{
+    text-align: center;
+    margin-left: 2%;
+    margin-right: 2%;
+    font-weight: bold;
+    font: 1em ;
+    font-family: "Roboto"
+}
