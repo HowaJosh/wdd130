@@ -1,0 +1,24 @@
+main{
+    max-width: 2000px;
+   
+    margin: 0 auto;
+    background-color: lightgray;
+}
+.top{
+    width: 100%
+}
+.cir{
+    float: left;
+    display: block;
+    border: 10px solid grey;
+    border-radius: 50%;
+    height: 200px;
+    width: 200px;
+    margin: 5%;
+   
+  
+}
+.pics{
+    content:"";
+    display: block;
+}
