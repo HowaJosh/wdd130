@@ -1,0 +1,28 @@
+.fgrid{
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+}
+.mwords{
+    background-color: lightgray;
+    grid-column: 2/3;
+    grid-row: 1;
+    color: red;
+    font-size: 5em;
+    padding-top: 400px;
+    text-align: center;
+}
+.words{
+    grid-column: 1/3;
+    grid-row: 1;
+    font-size: 10em;
+    z-index: 1;
+   padding-top: 20px;
+   padding-left: 200px;
+ 
+    font-weight: bold;
+}
+.cherry{
+    grid-column: 1/2;
+    grid-row: 1/2;
+    
+}
